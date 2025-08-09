@@ -8,11 +8,11 @@
         },
         "discount": 22,
         "img": {
-            "singleImage": "img/products/product1/1.jpeg",
+            "singleImage": "img/products/product1/1.png",
             "thumbs": [
-                "img/products/product1/1.jpeg",
-                "img/products/product1/2.jpeg",
-                "img/products/product1/3.jpeg"
+                "img/products/product1/1.png",
+                "img/products/product1/2.png",
+                "img/products/product1/3.png"
             ]
         }
     },
